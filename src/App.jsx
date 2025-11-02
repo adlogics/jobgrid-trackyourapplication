@@ -5,8 +5,6 @@ import HeroSection from './components/HeroSection'
 const App = () => {
   const[activeCard, setActiveCard] = useState(null)
 
-
-
   
   return (
     <>
